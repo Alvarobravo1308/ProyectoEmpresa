@@ -1,3 +1,5 @@
+create database ProyectoIndra
+use ProyectoIndra
 CREATE TABLE Usuario (
   id_usuario INT PRIMARY KEY AUTO_INCREMENT,
   nombre VARCHAR(100) NOT NULL,
