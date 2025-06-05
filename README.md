@@ -75,8 +75,8 @@ Fuentes personalizadas
 
 ## 📸 Evidencias
 
-- **portal_eventos_sostenibles.jpg**: Captura final de la web
-- **grafo_ramas_git.jpg**: Grafo de ramas en Git
+
+- **diagramaBBDD**: Grafo de ramas en Git
 - Capturas de la instalación de Windows 10
 - Capturas de la configuración de la máquina virtual
-- Capturas del servidor web funcionando en Windows 10
+
