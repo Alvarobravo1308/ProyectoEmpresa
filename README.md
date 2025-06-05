@@ -40,12 +40,7 @@ Imágenes utilizadas
 /com/indra/eventossostenibles
 - Clases Java del proyecto
 /resources
-- Configuración y recursos
-/test
-/java
-/com/indra/eventossostenibles
-- Pruebas unitarias
-/resources
+
 - Recursos de pruebas
 
 /portal_eventos_sostenibles.jpg (Captura final de la web)
