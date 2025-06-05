@@ -5,11 +5,10 @@
 Este proyecto tiene como objetivo desarrollar un portal web para la gestión de eventos relacionados con la sostenibilidad (conferencias, talleres, actividades ecológicas, etc.).  
 El sistema permite la gestión de usuarios, eventos, organizadores, categorías y ubicaciones, así como las inscripciones de los usuarios a los eventos.
 
-Se trata de una práctica integradora para el alumnado de **1º DAM/DAW** dentro de la Nueva FP.
 
 ## 🗂️ Estructura del Proyecto
 
-/doc
+/SSII
 
 Instalación de Windows 10 en máquina virtual (capturas y documentación)
 
