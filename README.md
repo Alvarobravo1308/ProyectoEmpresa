@@ -32,9 +32,7 @@ Scripts JS
 /images
 
 Imágenes utilizadas
-/fonts
 
-Fuentes personalizadas
 
 /src
 /main
